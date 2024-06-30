@@ -1,5 +1,26 @@
-<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[testing website]]></title><description><![CDATA[Obsidian digital garden]]></description><link>http://github.com/dylang/node-rss</link><image><url>lib\media\favicon.png</url><title>testing website</title><link/></image><generator>Webpage HTML Export plugin for Obsidian</generator><lastBuildDate>Wed, 26 Jun 2024 09:07:52 GMT</lastBuildDate><atom:link href="lib\rss.xml" rel="self" type="application/rss+xml"/><pubDate>Wed, 26 Jun 2024 09:07:51 GMT</pubDate><ttl>60</ttl><dc:creator/><item><title><![CDATA[test file 1]]></title><description><![CDATA[ 
- <br>this is a test<br>]]></description><link>test-file-1.html</link><guid isPermaLink="false">test file 1.md</guid><pubDate>Wed, 26 Jun 2024 07:26:01 GMT</pubDate></item><item><title><![CDATA[Welcome]]></title><description><![CDATA[ 
- <br>This is your new vault.<br>Make a note of something, <a data-href="create a link" href="\create a link" class="internal-link" target="_self" rel="noopener">create a link</a>, or try <a data-tooltip-position="top" aria-label="https://help.obsidian.md/Plugins/Importer" rel="noopener" class="external-link" href="https://help.obsidian.md/Plugins/Importer" target="_blank">the Importer</a>!<br>When you're ready, delete this note and make the vault your own.]]></description><link>welcome.html</link><guid isPermaLink="false">Welcome.md</guid><pubDate>Fri, 02 Feb 2024 18:41:27 GMT</pubDate></item><item><title><![CDATA[test 3]]></title><description><![CDATA[ 
- <br><a data-href="test file 1" href="\test-file-1.html" class="internal-link" target="_self" rel="noopener">test file 1</a><br>
-<a data-href="Welcome" href="\welcome.html" class="internal-link" target="_self" rel="noopener">Welcome</a>]]></description><link>test-3.html</link><guid isPermaLink="false">test 3.md</guid><pubDate>Wed, 26 Jun 2024 09:04:05 GMT</pubDate></item></channel></rss>
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Testvault]]></title><description><![CDATA[Obsidian digital garden]]></description><link>https://maccram.github.io/TestExporterRepo/</link><image><url>https://maccram.github.io/TestExporterRepo/lib/media/favicon.png</url><title>Testvault</title><link>https://maccram.github.io/TestExporterRepo/</link></image><generator>Webpage HTML Export plugin for Obsidian</generator><lastBuildDate>Sun, 30 Jun 2024 09:19:09 GMT</lastBuildDate><atom:link href="https://maccram.github.io/TestExporterRepo/lib/rss.xml" rel="self" type="application/rss+xml"/><pubDate>Sun, 30 Jun 2024 09:19:07 GMT</pubDate><copyright><![CDATA[Marc]]></copyright><ttl>60</ttl><dc:creator>Marc</dc:creator><item><title><![CDATA[test file 1]]></title><description><![CDATA[ 
+ <br>this is a test<br>]]></description><link>https://maccram.github.io/TestExporterRepo/test-file-1.html</link><guid isPermaLink="false">test file 1.md</guid><dc:creator><![CDATA[Marc]]></dc:creator><pubDate>Wed, 26 Jun 2024 07:26:01 GMT</pubDate></item><item><title><![CDATA[Welcome]]></title><description><![CDATA[ 
+ <br>This is your new vault.<br>Make a note of something, <a data-href="create a link" href="https://maccram.github.io/TestExporterRepo/create a link" class="internal-link" target="_self" rel="noopener">create a link</a>, or try <a data-tooltip-position="top" aria-label="https://help.obsidian.md/Plugins/Importer" rel="noopener" class="external-link" href="https://help.obsidian.md/Plugins/Importer" target="_blank">the Importer</a>!<br>When you're ready, delete this note and make the vault your own.]]></description><link>https://maccram.github.io/TestExporterRepo/welcome.html</link><guid isPermaLink="false">Welcome.md</guid><dc:creator><![CDATA[Marc]]></dc:creator><pubDate>Fri, 02 Feb 2024 18:41:27 GMT</pubDate></item><item><title><![CDATA[Welcome to Healthside👋🏻]]></title><description><![CDATA[ 
+ <br>This is a website where you can learn everything about health. <br>All the notes come from my personal research therefore SOURCE NOTES. Based on that information i created the actual NOTES which contain the WHY and HOW. Last i also created TOOLS which are simplified action plans.<br><br>If you aren't familiar with Obsidian then here is a short introduction that you get on what this is based on. Obsidian is a note managing program where you can use links to link notes together, just like you have in Wikipedia.<br><br>On the right you have all the source notes, the notes themselves and tools. On the left there is a graph (visual representation of the links between notes) and the outline of the note.<br>Fotos<br><br>
+<br>Here are the notes that are best to start with, but feel free to immerse yourself in any topic of interest.
+<br><br>
+<br>Here are topics that are being added or updated.
+<br><br><br>
+<br>Fish and fish oil
+<br>Posture (general posture, sitting, sleep, mewing)
+<br>What blood work markers to look for
+<br>Training and how muscles grow
+<br>What muscles need to grow in terms of nutrition
+<br>How to bulk on the changed diet
+<br>Mobility and Stretching
+<br><br>
+<br>Eye health
+<br>Sleep
+<br>Hair growth
+<br><br><br>
+<br>Honey
+<br>Vegetables yes/no
+<br>Hydration and minerals
+<br>Cold exposure
+<br>How to safely consume raw dairy
+]]></description><link>https://maccram.github.io/TestExporterRepo/welcome-to-healthside👋🏻.html</link><guid isPermaLink="false">Welcome to Healthside👋🏻.md</guid><dc:creator><![CDATA[Marc]]></dc:creator><pubDate>Sun, 30 Jun 2024 09:17:51 GMT</pubDate></item></channel></rss>
